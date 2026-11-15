@@ -1,0 +1,123 @@
+{
+  "keybind": {
+    "open": "Inventário: abrir",
+    "wheel": "Inventário: roda de uso rápido (manter)",
+    "slot": "Inventário: usar o espaço {slot}"
+  },
+  "page": {
+    "pockets": "Bolsos",
+    "search": "Procurar itens",
+    "filter": {
+      "all": "Tudo",
+      "weapons": "Armas",
+      "usable": "Usáveis"
+    },
+    "kind": {
+      "stash": "Armazém",
+      "trunk": "Mala",
+      "glovebox": "Porta-luvas",
+      "drop": "Chão",
+      "shop": "Loja",
+      "inventory": "Inventário"
+    },
+    "ground": "Chão",
+    "groundHint": "Larga itens aqui para os deixar no chão.",
+    "give": "Dar",
+    "nobodyNearby": "Ninguém perto o suficiente.",
+    "use": "Usar",
+    "drop": "Largar",
+    "split": "Dividir",
+    "inspect": "Inspecionar",
+    "moveAll": "Mover",
+    "amount": "Quantidade",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "close": "Fechar",
+    "buy": "Comprar",
+    "inStock": "{count} em stock",
+    "soldOut": "Esgotado",
+    "total": "Total",
+    "serial": "Número de série",
+    "durability": "Durabilidade",
+    "ammo": "Carregado",
+    "attachments": "Acessórios",
+    "attachHint": "Larga um acessório ou uma pintura na arma.",
+    "tint": "Pintura {index}",
+    "reload": "Recarregar",
+    "unload": "Descarregar",
+    "inHand": "Na mão",
+    "detach": "Remover",
+    "empty": "Vazio",
+    "usable": "Usável",
+    "wheelHint": "Solta num espaço",
+    "quantity": "Quantidade",
+    "all": "Tudo",
+    "less": "Menos",
+    "more": "Mais",
+    "noDescription": "Sem descrição.",
+    "details": "Detalhes",
+    "yes": "Sim",
+    "no": "Não",
+    "category": {
+      "weapon": "Arma",
+      "ammo": "Munição",
+      "attachment": "Acessório",
+      "consumable": "Consumível",
+      "item": "Item",
+      "clothing": "Roupa"
+    },
+    "mouse": {
+      "doubleClick": "Duplo clique",
+      "shiftClick": "Shift + clique",
+      "ctrlClick": "Ctrl + clique",
+      "rightClick": "Clique direito"
+    },
+    "hint": {
+      "use": "usar",
+      "moveAll": "mover tudo",
+      "moveOne": "mover um",
+      "actions": "ações"
+    },
+    "metadata": {
+      "plate": "Matrícula",
+      "quality": "Qualidade",
+      "owner": "Dono",
+      "expires": "Expira"
+    },
+    "error": {
+      "invalid_args": "Isso não funcionou.",
+      "not_found": "Já não existe.",
+      "not_loaded": "Carrega uma personagem primeiro.",
+      "rate_limited": "Mais devagar.",
+      "no_permission": "Não podes fazer isso aqui.",
+      "insufficient_funds": "Dinheiro insuficiente.",
+      "insufficient_items": "Não tens os itens.",
+      "cannot_carry": "Não consegues carregar isso.",
+      "timeout": "O servidor não respondeu. Tenta de novo.",
+      "internal_error": "Algo correu mal. Tenta de novo."
+    },
+    "clothing": {
+      "hat": "Chapéu",
+      "glasses": "Óculos",
+      "ears": "Brincos",
+      "mask": "Máscara",
+      "chain": "Colar",
+      "top": "Camisola",
+      "undershirt": "Camisola interior",
+      "gloves": "Luvas",
+      "vest": "Colete",
+      "bag": "Mochila",
+      "watch": "Relógio",
+      "bracelet": "Pulseira",
+      "legs": "Calças",
+      "shoes": "Sapatos",
+      "takeOff": "Clica para tirar",
+      "putOn": "Clica para voltar a vestir",
+      "nothing": "Nada para vestir",
+      "dragHere": "Arrasta uma peça para aqui para a vestir",
+      "unavailable": "Não disponível para esta personagem"
+    },
+    "nothingOpen": "Nada aberto",
+    "nothingOpenHint": "Fica junto a um baú, porta-bagagens ou loja e abre o inventário."
+  }
+}

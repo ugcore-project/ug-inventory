@@ -1,0 +1,123 @@
+{
+  "keybind": {
+    "open": "Inventory: open",
+    "wheel": "Inventory: quick-use wheel (hold)",
+    "slot": "Inventory: use slot {slot}"
+  },
+  "page": {
+    "pockets": "Pockets",
+    "search": "Search items",
+    "filter": {
+      "all": "All",
+      "weapons": "Weapons",
+      "usable": "Usable"
+    },
+    "kind": {
+      "stash": "Stash",
+      "trunk": "Trunk",
+      "glovebox": "Glovebox",
+      "drop": "Ground",
+      "shop": "Shop",
+      "inventory": "Inventory"
+    },
+    "ground": "Ground",
+    "groundHint": "Drop items here to leave them on the ground.",
+    "give": "Give",
+    "nobodyNearby": "Nobody close enough to give to.",
+    "use": "Use",
+    "drop": "Drop",
+    "split": "Split",
+    "inspect": "Inspect",
+    "moveAll": "Move",
+    "amount": "Amount",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "buy": "Buy",
+    "inStock": "{count} in stock",
+    "soldOut": "Sold out",
+    "total": "Total",
+    "serial": "Serial",
+    "durability": "Durability",
+    "ammo": "Loaded",
+    "attachments": "Attachments",
+    "attachHint": "Drop an attachment or a tint on the weapon.",
+    "tint": "Tint {index}",
+    "reload": "Reload",
+    "unload": "Unload",
+    "inHand": "In hand",
+    "detach": "Remove",
+    "empty": "Empty",
+    "usable": "Usable",
+    "wheelHint": "Release on a slot",
+    "quantity": "Quantity",
+    "all": "All",
+    "less": "Less",
+    "more": "More",
+    "noDescription": "No description.",
+    "details": "Details",
+    "yes": "Yes",
+    "no": "No",
+    "category": {
+      "weapon": "Weapon",
+      "ammo": "Ammo",
+      "attachment": "Attachment",
+      "consumable": "Consumable",
+      "item": "Item",
+      "clothing": "Clothing"
+    },
+    "mouse": {
+      "doubleClick": "Double-click",
+      "shiftClick": "Shift + click",
+      "ctrlClick": "Ctrl + click",
+      "rightClick": "Right-click"
+    },
+    "hint": {
+      "use": "use",
+      "moveAll": "move all",
+      "moveOne": "move one",
+      "actions": "actions"
+    },
+    "metadata": {
+      "plate": "Plate",
+      "quality": "Quality",
+      "owner": "Owner",
+      "expires": "Expires"
+    },
+    "error": {
+      "invalid_args": "That did not work.",
+      "not_found": "That is gone.",
+      "not_loaded": "Load a character first.",
+      "rate_limited": "Slow down.",
+      "no_permission": "You can't do that here.",
+      "insufficient_funds": "Not enough money.",
+      "insufficient_items": "You don't have the items.",
+      "cannot_carry": "You can't carry that.",
+      "timeout": "The server did not answer. Try again.",
+      "internal_error": "Something went wrong. Try again."
+    },
+    "clothing": {
+      "hat": "Hat",
+      "glasses": "Glasses",
+      "ears": "Earrings",
+      "mask": "Mask",
+      "chain": "Chain",
+      "top": "Top",
+      "undershirt": "Undershirt",
+      "gloves": "Gloves",
+      "vest": "Vest",
+      "bag": "Bag",
+      "watch": "Watch",
+      "bracelet": "Bracelet",
+      "legs": "Pants",
+      "shoes": "Shoes",
+      "takeOff": "Click to take off",
+      "putOn": "Click to put back on",
+      "nothing": "Nothing to put on",
+      "dragHere": "Drag a piece here to wear it",
+      "unavailable": "Not for this character"
+    },
+    "nothingOpen": "Nothing open",
+    "nothingOpenHint": "Stand next to a stash, trunk or shop and open the inventory."
+  }
+}
